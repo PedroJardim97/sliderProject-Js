@@ -1,2 +1,7 @@
 # sliderProject-Js
-Slide feito com html css e javascript
+
+# Tecnologias
+
+- Html
+- Css
+- Javscript
