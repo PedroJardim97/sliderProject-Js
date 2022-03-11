@@ -1,6 +1,5 @@
 # sliderProject-Js
-
-# Tecnologias
+Tecnologias
 
 - Html
 - Css
